@@ -1,0 +1,5 @@
+{
+  "name": "Budget Planner",
+  "description": "An advanced personal finance application to master your budget, expenses, and savings. Features a single, comprehensive AI assistant with a full view of your finances, CSV data import/export, and a sleek dark mode.",
+  "requestFramePermissions": []
+}
